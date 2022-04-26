@@ -3,16 +3,17 @@
 # What is Vim9?
 
 Vim9 script takes Vim script in a new direction with the intention of making it
-faster and more in line with other programmling languages.
+faster and more in line with other programming languages.
 
-THIS WORK HAS BEEN INCLUDED IN THE MAIN VIM REPOSITORY.  THIS IS OUTDATED. 
+THIS WORK HAS BEEN INCLUDED IN THE MAIN VIM REPOSITORY.
+THIS REPOSITORY IS OUTDATED. 
 
 It is kept here for historic reasons.  Many things changed after users have
-eplored the new features and started writing plugins.  These changes are not
+explored the new features and started writing plugins.  These changes are not
 included here.
 
 
-# What is this repository?
+# What is in this repository?
 
 This was an experimental fork of [Vim](https://github.com/vim/vim).
 It explored ways of making Vim script faster and better,
