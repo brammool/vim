@@ -258,10 +258,10 @@ END
   return luaeval('sum')
 endfunc
 
-def VimNew()
+def VimNew(): number
   let sum = 0
   for i in range(1, 2999999)
-    let sum += i
+    sum += i
   endfor
   return sum
 enddef
